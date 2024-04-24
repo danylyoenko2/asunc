@@ -84,7 +84,7 @@ body {
   border: 2px solid var(--secondColor);
   border-radius: 7px;
   padding: 14px 24px;
-  transition: 0.2s ease-in-out;
+  transition: 0.2s step-start ease-in-out;
 }
 
 .hero-content {
