@@ -76,7 +76,6 @@ body {
   padding: 14px 98px;
   border: 2px solid var(--secondColor);
   border-radius: 7px;
-  transition: 100ms ease-in ease-in-out;
 }
 
 .hero-button:hover {
@@ -85,6 +84,7 @@ body {
   border: 2px solid var(--secondColor);
   border-radius: 7px;
   padding: 14px 24px;
+  transition: 0.2s ease-in-out;
 }
 
 .hero-content {
